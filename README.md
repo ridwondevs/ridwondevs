@@ -35,14 +35,6 @@ I'm a passionate Front-End Web Developer who loves building modern, responsive, 
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=github_dark)
-
----
-
 ## 🔥 Streak Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME\&theme=github-dark)
@@ -51,7 +43,7 @@ I'm a passionate Front-End Web Developer who loves building modern, responsive, 
 
 ## 🌐 Connect With Me
 
-* GitHub: https://github.com/YOUR_USERNAME
+* GitHub: https://github.com/ridwondevs
 * Portfolio: Your Portfolio Link
 * LinkedIn: Your LinkedIn Profile
 * Facebook: Your Facebook Profile
