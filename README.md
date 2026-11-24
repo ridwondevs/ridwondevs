@@ -12,18 +12,6 @@
 
 <br/><br/>
 
-<a href="https://ridone-hossen.netlify.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-VISIT%20WEBSITE-DC143C?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<a href="https://github.com/ridwondevs">
-<img src="https://img.shields.io/badge/GITHUB-FOLLOW%20ME-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=ridwondevs&style=for-the-badge&color=DC143C&label=PROFILE+VISITORS"/>
-
-<br/><br/>
-
 </div>
 
 ---
